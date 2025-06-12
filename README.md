@@ -25,7 +25,7 @@ o	Spawn random shapes on the screen and give the user points for clicking them.
 o	Make a simple Pong game for Two Users.
 10.	Scrolling Background
 o	Create a scrolling background effect, such as clouds moving across the screen.
-________________________________________
+_______________________________________________
 Intermediate Level
 11.	Simple Platformer
 o	Build a simple platformer where the player can jump on platforms.
