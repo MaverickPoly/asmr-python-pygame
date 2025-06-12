@@ -1,0 +1,21 @@
+# Window
+WIDTH, HEIGHT = 1000, 700
+TITLE = "Simple Platformer"
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+
+
+# Player
+PLAYER_W, PLAYER_H = 30, 60
+PLAYER_COLOR = RED
+GRAVITY = 0.8
+SPEED = 5
+JUMP_FORCE = 17
+
+# Obstacle
+OBSTACLE_COLOR = GREEN

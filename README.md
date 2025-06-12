@@ -27,8 +27,8 @@ o	Make a simple Pong game for Two Users.
 o	Create a scrolling background effect, such as clouds moving across the screen.
 ________________________________________
 Intermediate Level
-11.	Side-Scrolling Platformer
-o	Build a side-scrolling platformer where the player can jump on platforms and avoid obstacles.
+11.	Simple Platformer
+o	Build a simple platformer where the player can jump on platforms.
 12.	Snake Game
 o	Recreate the classic Snake game with increasing difficulty as the snake grows.
 13.	Breakout/Brick Breaker
