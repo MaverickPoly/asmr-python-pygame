@@ -3,6 +3,7 @@
 This repository contains 20 Pygame Projects implemented by me to learn and consolidate my skills in this technology.
 
 ## Projects
+
 Beginner Level
 1.	Bouncing Ball
 	Create a program where a ball bounces around the screen, changing direction when it hits the edges.
@@ -25,7 +26,8 @@ Beginner Level
 	Make a simple Pong game for Two Users.
 10.	Scrolling Background
 	Create a scrolling background effect, such as clouds moving across the screen.
-_______________________________________________
+
+________________________________________________
 
 Intermediate Level
 11.	Simple Platformer
@@ -45,6 +47,6 @@ Intermediate Level
 18.	Flappy Bird Clone
 	Recreate the mechanics of Flappy Bird with obstacles and gravity.
 19.	Racing Game
-	Build a simple top-down racing game where the player avoids obstacles and competes for high scores.
+	Build a simple racing game where players race for the first place.
 20.	Tower Defense
 	Create a basic tower defense game with enemies moving along a path and towers shooting at them.
